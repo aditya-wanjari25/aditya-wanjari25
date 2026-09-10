@@ -12,9 +12,7 @@
 
 ---
 
-i build systems around the domains that fascinate me — you'll see the pattern across my repos. solid engineering principles behind ai-coded apps keep me sane and accountable, and keep the systems from breaking at scale.
-
-learn > ship > optimize > repeat.
+learn > ship > optimize > repeat
 
 ---
 
